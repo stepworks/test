@@ -6,3 +6,5 @@ Githubのtest
 ##menber
 
 *testmember
+
+##ji
